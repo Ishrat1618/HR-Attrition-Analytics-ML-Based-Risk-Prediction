@@ -1,0 +1,23 @@
+🔍 Key Insights
+
+1.Overall attrition rate is ~16%, indicating a moderate but impactful retention issue.
+
+2.Certain departments show disproportionately higher attrition, suggesting localized problems.
+
+3.Employees in lower salary bands exhibit higher attrition counts.
+
+4.Overtime is strongly associated with increased attrition, highlighting burnout risks.
+
+5.ML-based risk modeling identifies a small but critical group of high-risk employees who require immediate attention.
+
+🎯 HR Recommendations
+
+1.Prioritize retention initiatives in high-attrition departments.
+
+2.Review compensation structures for lower salary bands.
+
+3.Reduce excessive overtime through workload redistribution.
+
+4.Use ML risk scores to proactively engage high-risk employees.
+
+5.Implement periodic attrition risk monitoring using dashboards.
